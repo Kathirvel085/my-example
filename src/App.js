@@ -21,5 +21,12 @@ function App() {
     </div>
   );
 }
+function header1(){
+  return(
+<div className="header">
+Hai I m kathirvel
+</div>
+  );
+}
 
-export default App;
+export default  header1 && App;
